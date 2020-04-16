@@ -1,0 +1,15 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  simconverter in 'simconverter.pas' {Form1},
+  simobject in 'simobject.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

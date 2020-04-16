@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/04 18:34:01.000.954,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 18:40:13.000.341,C:\Company\Software Projects\Delphi\simnumberconverter\simconverter.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 18:40:13.000.341,C:\Company\Software Projects\Delphi\simnumberconverter\simconverter.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/04 18:45:41.000.480,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 18:45:56.000.303,C:\Company\Software Projects\Delphi\simnumberconverter\simobject.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/04 18:57:47.000.643,C:\Company\Software Projects\Delphi\simnumberconverter\Project1.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/10/05 10:43:28.000.087,C:\Company\Software Projects\Delphi\simnumberconverter\simobject.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
